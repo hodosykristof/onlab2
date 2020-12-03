@@ -1,0 +1,27 @@
+CK:
+"CK"
+
+HRV:
+['Mean RR*', 'Mean HR*', 'Min HR',
+       'Max HR', 'SDNN', 'RMSSD', 'NN50', 'pNN50', 'RR triangular index',
+       'TINN', 'Stress Index (SI)', 'VLF(Hz)', 'VLF(ms^2)', 'VLF(log)',
+       'VLF(%)', 'LF(Hz)', 'LF(ms^2)', 'LF(log)', 'LF(%)', 'LF(n.u.)',
+       'HF(Hz)', 'HF(ms^2)', 'HF(log)', 'HF(%)', 'HF(n.u.)', 'Total power',
+       'LF/HF ratio', 'SD1', 'SD2', 'SD2/SD1', 'Approximate Entropy (ApEn)',
+       'Sample Entropy (SampEn)', 'Short-term fluctuations,',
+       'Long-term fluctuations,', 'PNS Index', 'SNS Index', 'HRV Area']
+
+WHOOP:
+['Strain', 'Total Workouts', 'Workout Strain',
+       '% Day Strain Accounted For By Workouts', 'Day Strain W/O Workouts',
+       'RHR', 'HRV', 'Recovery', 'Sleep Score', 'Sleep Onset', 'Wake Onset',
+       'Hours in Bed', 'Hours of Sleep', 'Sleep Need', 'Disturbances',
+       'Latency (min)', 'Cycles', 'REM Sleep (hours)', 'Deep Sleep (hours)',
+       'Light Sleep (hours)', 'Awake (hours)', 'Missing Data (hours)',
+       'Sleep Consistency', 'Respiratory Rate', 'Last Nap End Time',
+       'Nap Time in Bed', 'Total Cycle Nap Time (hours)', 'Nap Disturbances',
+       'Nap REM', 'Nap SWS', 'Nap Light', 'Nap Wake', 'Nap Missing Data',
+       'Total Cycle Sleep Time (hours)', 'Caffeine Use', 'Alcohol Use',
+       'Tobacco Use', 'Medication Use', 'Use a Screened Device', 'Read',
+       'Share Bed', 'Waking Energy Level', 'Waking Soreness Level',
+       'Reported Stress', 'Reported Injury', 'Reported Illness']

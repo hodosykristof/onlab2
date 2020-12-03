@@ -12,7 +12,7 @@ def increase_time_by_seconds(datetime, seconds):
     split_time = time.split(':')
     hour = int(split_time[0])
     minute = int(split_time[1])
-    sec = int(split_time[2])
+    sec = int(float(split_time[2]))
     secs = int(float(seconds)) + hour * 3600 + minute * 60 + sec
     hour, minute = divmod(secs, 3600)
     minute, sec = divmod(secs - int(hour) * 3600, 60)
